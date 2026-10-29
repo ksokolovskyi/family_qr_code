@@ -31290,7 +31290,7 @@ if(o<p){j=i.mu(o)
 if(r.$2(a,j)>0){s[b]=j
 b=o}}s[b]=a}}
 A.vf.prototype={
-W(a){return new A.pg(B.H1,"Family QR",A.a0w(B.T,null,null),!1,null)}}
+W(a){return new A.pg(B.H1,"Family QR Code",A.a0w(B.T,null,null),!1,null)}}
 A.lJ.prototype={
 Dg(a){var s,r=a-this.c
 if(r<0)return 0
